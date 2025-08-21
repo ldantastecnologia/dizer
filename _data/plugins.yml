@@ -8,10 +8,10 @@ css:
 
 ################ JS Plugins ######################
 js:
-  - "/assets/plugins/jQuery/jquery.min.js"
-  - "/assets/plugins/bootstrap/bootstrap.min.js"
-  - "/assets/plugins/slick-carousel/slick/slick.min.js"
-  - "/assets/plugins/shuffle/shuffle.min.js"
-  - "/assets/plugins/magnific-popup/magnific-popup.min.js"
-  - "/assets/plugins/google-map/gmap.js"
-  - "/assets/plugins/search/search.min.js"
+  - "dizer/assets/plugins/jQuery/jquery.min.js"
+  - "dizer/assets/plugins/bootstrap/bootstrap.min.js"
+  - "dizer/assets/plugins/slick-carousel/slick/slick.min.js"
+  - "dizer/assets/plugins/shuffle/shuffle.min.js"
+  - "dizer/assets/plugins/magnific-popup/magnific-popup.min.js"
+  - "dizer/assets/plugins/google-map/gmap.js"
+  - "dizer/assets/plugins/search/search.min.js"
