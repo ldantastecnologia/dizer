@@ -12,7 +12,7 @@ logo_icon: "/assets/images/logo-b.png"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io
 mailchimp_list: "#"
-footer_content: "álise comparativa da segurança e eficácia da vacina da Covid-19 no Brasil e no Paquistão."
+footer_content: "Análise comparativa da segurança e eficácia da vacina da Covid-19 no Brasil e no Paquistão."
 copyright: " &copy; 2025 Todos os direitos reservados"
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"

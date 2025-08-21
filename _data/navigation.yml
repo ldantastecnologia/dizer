@@ -11,28 +11,28 @@ main:
         url: /index-3.html
       - name: Home 4
         url: /index-4.html
-  - name: About
+  - name: Projeto
     url: "#"
     submenu:
-      - name: About
-        url: /about.html
-      - name: About Me
-        url: /about-me.html
-  - name: Blog
-    url: /blog-1.html
-  - name: Pages
+      - name: Projeto
+        url: /projeto.html
+      - name: Instituições
+        url: /instituicoes.html
+  - name: Equipe
+    url: /equipe.html
+  - name: Publicações
     url: /
     submenu:
-      - name: Services
-        url: /services.html
-      - name: Portfolio One
-        url: /portfolio-1.html
-      - name: Portfolio Two
-        url: /portfolio-2.html
+      - name: Preprints e Artigos Científicos
+        url: /artigos.html
+      - name: Boletins
+        url: /boletins.html
+      - name: Na mídia
+        url: /na-midia
       - name: 404
         url: /404
-  - name: Contact
-    url: /contact.html
+  - name: Lições Aprendidas
+    url: /licoes.html
 
 ########## footer menu ###############
 footer:
