@@ -1,17 +1,17 @@
 ################ CSS Plugins #####################
 css:
-  - "dizer/assets/plugins/bootstrap/bootstrap.min.css"
-  - "dizer/assets/plugins/themify/css/themify-icons.css"
-  - "dizer/assets/plugins/magnific-popup/magnific-popup.css"
-  - "dizer/assets/plugins/slick-carousel/slick/slick.css"
+  - "/assets/plugins/bootstrap/bootstrap.min.css"
+  - "/assets/plugins/themify/css/themify-icons.css"
+  - "/assets/plugins/magnific-popup/magnific-popup.css"
+  - "/assets/plugins/slick-carousel/slick/slick.css"
 
 
 ################ JS Plugins ######################
 js:
-  - "dizer/assets/plugins/jQuery/jquery.min.js"
-  - "dizer/assets/plugins/bootstrap/bootstrap.min.js"
-  - "dizer/assets/plugins/slick-carousel/slick/slick.min.js"
-  - "dizer/assets/plugins/shuffle/shuffle.min.js"
-  - "dizer/assets/plugins/magnific-popup/magnific-popup.min.js"
-  - "dizer/assets/plugins/google-map/gmap.js"
-  - "dizer/assets/plugins/search/search.min.js"
+  - "/assets/plugins/jQuery/jquery.min.js"
+  - "/assets/plugins/bootstrap/bootstrap.min.js"
+  - "/assets/plugins/slick-carousel/slick/slick.min.js"
+  - "/assets/plugins/shuffle/shuffle.min.js"
+  - "/assets/plugins/magnific-popup/magnific-popup.min.js"
+  - "/assets/plugins/google-map/gmap.js"
+  - "/assets/plugins/search/search.min.js"
