@@ -1,19 +1,19 @@
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
-title: "Dizer -  Multipurpose Business & Corporate Jekyll Template"
-email: "themefisher@gmail.com"
-phone: "+21 123 456 5523"
-address: "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
-author: themefisher
+url: "https://decovacs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
+title: "Decovacs"
+email: "vinicius.oliveira@fiocruz.br"
+phone: ""
+address: "Parque Tecnológico da Edf. Tecnocentro, R. Mundo, 121 - sala 315 - Trobogy, Salvador - BA, 41745-715"
+author: Fiocruz
 description: >- # this means to ignore newlines
-  Dizer - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
+  Análise comparativa da segurança e eficácia da vacina da Covid-19 no Brasil e no Paquistão.
 logo: "/assets/images/logo.png"
 logo_icon: "/assets/images/logo-b.png"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io
-mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
-footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam."
-copyright: "dizer. &copy; 2020 All Right Reserved"
+mailchimp_list: "#"
+footer_content: "álise comparativa da segurança e eficácia da vacina da Covid-19 no Brasil e no Paquistão."
+copyright: " &copy; 2025 Todos os direitos reservados"
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"
 
