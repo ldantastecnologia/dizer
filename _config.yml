@@ -16,10 +16,9 @@ footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor i
 copyright: "dizer. &copy; 2020 All Right Reserved"
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"
-google_map_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDnh74UN6BKgq9U5fMNGhdZOSpmM_QnZqs"
 
-############### Call to Action ###############
 cta:
+############### Call to Action ###############
   enable: true
   title: "dizer give the smart solution for your business"
   bg_image: "/assets/images/bg/cta-bg-2.png"
